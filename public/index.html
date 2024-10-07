@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Stock Market Tracker</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Welcome to Stock Market Tracker</h1>
+  <form id="stock-form" action="/stock/:symbol" method="GET">
+    <input type="text" name="symbol" placeholder="Enter stock symbol" required />
+    <button type="submit">Get Stock Data</button>
+  </form>
+</body>
+</html>
