@@ -1,0 +1,24 @@
+{
+  "name": "fall-2024-club-project",
+  "version": "1.0.0",
+  "description": "Stock tracking website built in a company like enviornment where there are different teams with students that work a specific role.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UWTechStartUpClub/Fall-2024-Club-Project.git"
+  },
+  "keywords": [
+    "Stocks",
+    "Project",
+    "club"
+  ],
+  "author": "Celestin Ryf, Nick Jordan, Jacob Klymenko, Luke Willis, Alex Yu, Preston Sia, Anthony Naydyuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UWTechStartUpClub/Fall-2024-Club-Project/issues"
+  },
+  "homepage": "https://github.com/UWTechStartUpClub/Fall-2024-Club-Project#readme"
+}
