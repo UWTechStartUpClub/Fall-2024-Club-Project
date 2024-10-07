@@ -15,7 +15,7 @@
     "Project",
     "club"
   ],
-"contributors": [
+  "contributors": [
     {
       "name": "Celestin Ryf",
       "email": "celestinryf@gmail.com",
@@ -46,12 +46,16 @@
       "name": "Anthony Naydyuk"
     }
   ],
-    "license": "MIT",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/UWTechStartUpClub/Fall-2024-Club-Project/issues"
   },
   "homepage": "https://github.com/UWTechStartUpClub/Fall-2024-Club-Project#readme",
   "dependencies": {
-    "express": "^4.21.0"
+    "axios": "^1.7.7",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "helmet": "^8.0.0",
+    "node-fetch": "^3.3.2"
   }
 }
