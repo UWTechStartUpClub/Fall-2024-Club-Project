@@ -11,3 +11,11 @@ app.listen(PORT, () => {
 });
 
 app.use(express.static('public'));
+
+app.get('/about', (req, res) => {
+  res.render('about', { title: 'About Us' });
+});
+
+app.get('/contact', (req, res) => {
+  res.render('contact', { title: 'Contact Us' });
+});

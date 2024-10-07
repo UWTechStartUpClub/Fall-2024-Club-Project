@@ -15,8 +15,38 @@
     "Project",
     "club"
   ],
-  "author": "Celestin Ryf, Nick Jordan, Jacob Klymenko, Luke Willis, Alex Yu, Preston Sia, Anthony Naydyuk",
-  "license": "MIT",
+"contributors": [
+    {
+      "name": "Celestin Ryf",
+      "email": "celestinryf@gmail.com",
+      "url": "https://github.com/celestinryf"
+    },
+    {
+      "name": "Nick Jordan",
+      "email": "njordan1@uw.edu",
+      "url": "https://github.com/NickJordan-BE"
+    },
+    {
+      "name": "Jacob Klymenko",
+      "email": "jacobkly@uw.edu",
+      "url": "https://github.com/jacobkly"
+    },
+    {
+      "name": "Luke Willis",
+      "email": "lwillis@uw.edu",
+      "url": "https://github.com/luke-willis"
+    },
+    {
+      "name": "Alex Yu"
+    },
+    {
+      "name": "Preston Sia"
+    },
+    {
+      "name": "Anthony Naydyuk"
+    }
+  ],
+    "license": "MIT",
   "bugs": {
     "url": "https://github.com/UWTechStartUpClub/Fall-2024-Club-Project/issues"
   },
