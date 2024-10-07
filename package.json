@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/UWTechStartUpClub/Fall-2024-Club-Project/issues"
   },
-  "homepage": "https://github.com/UWTechStartUpClub/Fall-2024-Club-Project#readme"
+  "homepage": "https://github.com/UWTechStartUpClub/Fall-2024-Club-Project#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
 }
