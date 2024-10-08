@@ -57,6 +57,7 @@
     "dotenv": "^16.4.5",
     "express": "^4.21.0",
     "helmet": "^8.0.0",
+    "jscheckstyle": "^0.0.9",
     "node-fetch": "^3.3.2"
   }
 }
