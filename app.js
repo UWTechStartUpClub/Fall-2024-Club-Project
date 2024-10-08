@@ -40,12 +40,6 @@ app.get('/contact', (req, res) => {
 });
 
 /** Set the port and start the server */
-
-// const PORT = 3000;
-// app.listen(PORT, () => {
-//   console.log(`Server running on port ${PORT}`);
-// });
-
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
